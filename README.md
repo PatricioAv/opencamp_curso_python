@@ -7,4 +7,6 @@
 - [Ejercicio 3](./ejercicio3/)
 - [Ejercicio 4](./ejercicio4/)
 - [Ejercicio 5](./ejercicio5/)
+- [Ejercicio 6-1](./ejercicio6-1/)
+- [Ejercicio 6-2](./ejercicio6-2/)
 
