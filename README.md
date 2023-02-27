@@ -12,4 +12,5 @@
 - [Ejercicio 7-1](./ejercicio7-1/)
 - [Ejercicio 7-2](./ejercicio7-2/)
 - [Ejercicio 8-1](./ejercicio8-1/)
+- [Ejercicio 8-2](./ejercicio8-2/)
 
