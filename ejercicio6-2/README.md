@@ -42,13 +42,13 @@ alumno2 = Alumno("Alipio", 6.0)
 alumno3 = Alumno("Roberta", 7.0)
 
 # Representación de clase alumno y estado de aprobación
-print(alumno1.__repr__())
+print(alumno1)
 alumno1.aprobado()
 
-print(alumno2.__repr__())
+print(alumno2)
 alumno2.aprobado()
 
-print(alumno3.__repr__())
+print(alumno3)
 alumno3.aprobado()
 ```
 
