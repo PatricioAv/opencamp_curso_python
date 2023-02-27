@@ -1,0 +1,4 @@
+Escribiendo en archivo de prueba 'archivo.txt'
+utilizando un administrador de contexto.
+'with open(file, modo) as alias:'
+para cerrar el archivo automáticamente despues de su uso.
