@@ -3,11 +3,6 @@ llamada Alumno que tenga como atributos su nombre y su nota. Deberéis de defini
 los métodos para inicializar sus atributos, imprimirlos y mostrar un mensaje con
 el resultado de la nota y si ha aprobado o no.
 
-> Cuando comiences el ejercicio se te mostrarán las especificaciones para la
-> realización y entrega del mismo.
-> La entrega del ejercicio deberá realizarse a través de una carpeta .zip
-> empaquetada o un enlace al repositorio del ejercicio en GitHub.
-
 Ejercicio:
 
 [./ejercicio6-2.py](./ejercicio6-2.py)

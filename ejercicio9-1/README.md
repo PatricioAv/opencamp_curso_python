@@ -1,4 +1,3 @@
-
 Crea un script que le pida al usuario una lista de países (separados por comas).
 Éstos se deben almacenar en una lista. No debería haber países repetidos
 (haz uso de set).

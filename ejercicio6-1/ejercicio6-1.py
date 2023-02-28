@@ -1,7 +1,4 @@
 class Vehiculo:
-    color = ""
-    ruedas = 0
-    puertas = 0
 
     def __init__(self, color, ruedas, puertas):
         self.color = color
@@ -16,8 +13,6 @@ class Vehiculo:
 
 
 class Coche(Vehiculo):
-    velocidad = 0
-    cilindrada = 0.0
     
     def __init__(self, color, velocidad, cilindrada, ruedas=4, puertas=5):
         super().__init__(color, ruedas, puertas)
