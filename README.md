@@ -2,18 +2,47 @@
 
 ### Solución de ejercicios
 
-- [Ejercicio 1](./ejercicio1/)
-- [Ejercicio 2](./ejercicio2/)
-- [Ejercicio 3](./ejercicio3/)
-- [Ejercicio 4](./ejercicio4/)
-- [Ejercicio 5](./ejercicio5/)
-- [Ejercicio 6-1](./ejercicio6-1/)
-- [Ejercicio 6-2](./ejercicio6-2/)
-- [Ejercicio 7-1](./ejercicio7-1/)
-- [Ejercicio 7-2](./ejercicio7-2/)
-- [Ejercicio 8-1](./ejercicio8-1/)
-- [Ejercicio 8-2](./ejercicio8-2/)
-- [Ejercicio 9-1](./ejercicio9-1/)
-- [Ejercicio 9-2](./ejercicio9-2/)
-- [Ejercicio 10-1](./ejercicio_10-1/)
+#### Introducción a Python
+
+- [Ejercicio](./ejercicio1/)
+
+#### Interprete de Python
+
+- [Ejercicio](./ejercicio2/)
+
+#### Intro tipos de objetos
+
+- [Ejercicio](./ejercicio3/)
+
+#### Control de Flujo
+
+- [Ejercicio](./ejercicio4/)
+
+#### Funciones
+
+- [Ejercicio](./ejercicio5/)
+
+#### Clases y Objetos
+
+- [Ejercicio 1](./ejercicio6-1/)
+- [Ejercicio 2](./ejercicio6-2/)
+
+#### Módulos
+
+- [Ejercicio 1](./ejercicio7-1/)
+- [Ejercicio 2](./ejercicio7-2/)
+
+#### Entrada y Salida
+
+- [Ejercicio 1](./ejercicio8-1/)
+- [Ejercicio 2](./ejercicio8-2/)
+
+#### Libreria estandar
+
+- [Ejercicio 1](./ejercicio9-1/)
+- [Ejercicio 2](./ejercicio9-2/)
+
+#### GUI - Tkinter
+
+- [Ejercicio 1](./ejercicio_10-1/)
 
